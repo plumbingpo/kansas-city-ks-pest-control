@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kcpestcontrolsquad.com/sitemap.xml
